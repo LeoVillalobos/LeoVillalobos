@@ -1,4 +1,6 @@
-<h1 align="center">👋 ¡Hola! Soy Leonardo Villalobos</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Hola!%20Soy%20Leonardo%20Villalobos&fontSize=40&fontColor=fff&fontAlignY=45&animation=fadeIn&fontAlign=75&desc=Desarrollador%20web%20full-stack%20y%20documentador%20técnico" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VitePress-Documentación%20Técnica-0A0A0A?style=for-the-badge&logo=vite&logoColor=FFD700" />
