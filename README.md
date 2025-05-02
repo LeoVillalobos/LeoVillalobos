@@ -1,14 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Leonardo Villalobos</h1>
 
 <p align="center">
-  💻 Desarrollador web full-stack | 🧠 Documentador técnico | 🚀 Apasionado por construir soluciones limpias y escalables
-</p>
-
-
-
-## 🧠 Proyecto destacado: Knowledge Docs Hub
-
-<p align="center">
   <img src="https://img.shields.io/badge/VitePress-Documentación%20Técnica-0A0A0A?style=for-the-badge&logo=vite&logoColor=FFD700" />
 </p>
 
@@ -40,5 +32,5 @@
 ## 🛠️ Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,dotnet,docker,firebase,vite,github,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,dotnet,docker,firebase,vite,github,vscode,git,vuetify,java,mongodb,postgres,cs,electron,githubactions,laravel,mysql,nginx,npm,notion,php,pinia,pnpm,tailwind,vitest,visualstudio" />
 </p>
